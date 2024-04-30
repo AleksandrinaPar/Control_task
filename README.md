@@ -34,3 +34,5 @@ string[] inputStrings
 ```csh
 string[] suitableStrings
 ```
+Блок-схема изображена ниже на рисунке
+![Блок-схема](Diagram.png)
