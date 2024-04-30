@@ -8,6 +8,7 @@
 // ["1234", "1567", "-2", "computer science"] -> ["-2"]
 // ["Russia", "Denmark", "Kazan"] -> []
 
+
 // Шаг 1: Запрос размера массива строк у пользователя
 Console.Write("Введите количество строк в массиве: ");
 int arraySize = Convert.ToInt32(Console.ReadLine());
@@ -52,4 +53,3 @@ foreach (string str in suitableStrings)
 {
     Console.WriteLine(str);
 }
-
